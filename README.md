@@ -1,2 +1,2 @@
 # Bio
-Some little information about who I am
+This site is solely dedicated to my potfolio
